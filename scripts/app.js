@@ -1,6 +1,6 @@
 function addMarkers(map, data) {
     data.forEach((property) => {
-     if (!property.latitude || !property.longitude) return;
+     if (!property.Latitude || !property.Longitude) return;
 
 const marker = L.circleMarker([property.Latitude, property.Longitude], {
    
