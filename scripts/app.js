@@ -1,8 +1,9 @@
 function addMarkers(map, data) {
     data.forEach((property) => {
-        if (!property.Lat || !property.Long) return;
+     if (!property.latitude || !property.longitude) return;
 
-        const marker = L.circleMarker([property.Lat, property.Long], {
+const marker = L.circleMarker([property.latitude, property.longitude], {
+   
             radius: 8,
             fillColor: "#007BFF",
             color: "#000",
