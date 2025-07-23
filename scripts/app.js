@@ -1,18 +1,18 @@
 function addMarkers(map, data) {
     data.forEach((property) => {
-        if (!property.Latitude || !property.Longitude) return;
+        const lat = parseFloat(property.Latitude);
+        const lon = parseFloat(property.Longitude);
 
-        const marker = L.circleMarker(
-            [parseFloat(property.Latitude), parseFloat(property.Longitude)],
-            {
-                radius: 8,
-                fillColor: "#007BFF",
-                color: "#000",
-                weight: 1,
-                opacity: 1,
-                fillOpacity: 0.8
-            }
-        );
+        if (isNaN(lat) || isNaN(lon)) return;
+
+        const marker = L.circleMarker([lat, lon], {
+            radius: 8,
+            fillColor: "#007BFF",
+            color: "#000",
+            weight: 1,
+            opacity: 1,
+            fillOpacity: 0.8
+        });
 
         const popupContent = `
             <b>${property.PropertyName}</b><br>
