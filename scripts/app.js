@@ -15,13 +15,11 @@ function addMarkers(map, data) {
             <b>${property.PropertyName}</b><br>
             ${property.Address}<br>
             ${property.City}, ${property.State} ${property.Zip}<br><br>
-            Phone: ${property.OfficePhone || "N/A"}<br>
-            Email: ${property.Email || "N/A"}<br><br>
-            Manager: ${property.Manager || "N/A"}<br>
-            Assistant: ${property.AssistantMgr || "N/A"}<br>
-            Compliance: ${property.Compliance || "N/A"}<br>
+            Phone: ${property.Phone}<br>
+            Email: ${property.Email}<br><br>
+            Regional: ${property.RegionalManager}<br>
+            Compliance: ${property.Compliance}<br>
         `;
-
         marker.bindPopup(popupContent);
         marker.addTo(map);
     });
@@ -44,7 +42,7 @@ window.onload = async () => {
     }).addTo(map);
 
     try {
-        const response = await fetch("https://raw.githubusercontent.com/d4branch/gateway-property-map/main/cleaned_properties_with_coords.json");
+        const response = await fetch("data/cleaned_properties_with_coords.json");
         const properties = await response.json();
         addMarkers(map, properties);
     } catch (error) {
