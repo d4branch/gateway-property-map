@@ -45,7 +45,7 @@ window.onload = async () => {
     }).addTo(map);
 
     try {
-        const response = await fetch("cleaned_properties_no_rvp.json");
+        const response = await fetch("const response = await fetch("cleaned_properties_with_coords.json");
         const properties = await response.json();
         addMarkers(map, properties);
     } catch (error) {
