@@ -1,15 +1,18 @@
 function addMarkers(map, data) {
     data.forEach((property) => {
-        if (!property.Lat || !property.Long) return;
+        if (!property.Latitude || !property.Longitude) return;
 
-        const marker = L.circleMarker([property.Lat, property.Long], {
-            radius: 8,
-            fillColor: "#007BFF",
-            color: "#000",
-            weight: 1,
-            opacity: 1,
-            fillOpacity: 0.8
-        });
+        const marker = L.circleMarker(
+            [parseFloat(property.Latitude), parseFloat(property.Longitude)],
+            {
+                radius: 8,
+                fillColor: "#007BFF",
+                color: "#000",
+                weight: 1,
+                opacity: 1,
+                fillOpacity: 0.8
+            }
+        );
 
         const popupContent = `
             <b>${property.PropertyName}</b><br>
@@ -49,4 +52,3 @@ window.onload = async () => {
         console.error("Failed to load property data:", error);
     }
 };
-
