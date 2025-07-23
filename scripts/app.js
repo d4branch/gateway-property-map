@@ -1,35 +1,10 @@
-async function fetchExcelData(url) {
-    const response = await fetch(url);
-    const arrayBuffer = await response.arrayBuffer();
-    const data = new Uint8Array(arrayBuffer);
-    const workbook = XLSX.read(data, { type: "array" });
-    const sheetName = workbook.SheetNames[0];
-    return XLSX.utils.sheet_to_json(workbook.Sheets[sheetName]);
-}
-
-function colorByRVP(rvp) {
-    const colorMap = {
-        "Valerie": "#e6194b",
-        "Chris": "#3cb44b",
-        "Megan": "#ffe119",
-        "Terry": "#4363d8",
-        "Bobby": "#f58231",
-        "Jamie": "#911eb4",
-        "Kristi": "#46f0f0",
-        "Ashley": "#f032e6",
-        "Unassigned": "#a9a9a9"
-    };
-    return colorMap[rvp] || "#000000";
-}
-
 function addMarkers(map, data) {
     data.forEach((property) => {
         if (!property.Lat || !property.Long) return;
 
-        const color = colorByRVP(property.RVP);
         const marker = L.circleMarker([property.Lat, property.Long], {
             radius: 8,
-            fillColor: color,
+            fillColor: "#007BFF",
             color: "#000",
             weight: 1,
             opacity: 1,
@@ -38,9 +13,12 @@ function addMarkers(map, data) {
 
         const popupContent = `
             <b>${property.PropertyName}</b><br>
-            City: ${property.City}<br>
-            State: ${property.State}<br>
-            RVP: ${property.RVP}
+            ${property.Address}<br>
+            ${property.City}, ${property.State} ${property.Zip}<br><br>
+            Phone: ${property.Phone}<br>
+            Email: ${property.Email}<br><br>
+            Regional: ${property.RegionalManager}<br>
+            Compliance: ${property.Compliance}<br>
         `;
         marker.bindPopup(popupContent);
         marker.addTo(map);
@@ -52,8 +30,8 @@ window.onload = async () => {
         center: [32.8, -86.6],
         zoom: 6,
         maxBounds: [
-            [24.396308, -125.0],   // SW corner (Key West area)
-            [49.384358, -66.93457] // NE corner (Maine area)
+            [24.396308, -125.0],
+            [49.384358, -66.93457]
         ],
         maxBoundsViscosity: 1.0
     });
@@ -63,11 +41,11 @@ window.onload = async () => {
         maxZoom: 19
     }).addTo(map);
 
-    const excelUrl = "https://gatewaymgt.sharepoint.com/sites/Intranet/Shared%20Documents/Gateway/Property%20Lists/001%20Property%20List%20by%20RVP/Properties%20by%20RVP.xlsx";
     try {
-        const properties = await fetchExcelData(excelUrl);
+        const response = await fetch("cleaned_properties_no_rvp.json");
+        const properties = await response.json();
         addMarkers(map, properties);
     } catch (error) {
-        console.error("Failed to load Excel data:", error);
+        console.error("Failed to load JSON data:", error);
     }
 };
