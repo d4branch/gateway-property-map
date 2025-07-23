@@ -46,6 +46,7 @@ window.onload = async () => {
         const properties = await response.json();
         addMarkers(map, properties);
     } catch (error) {
-        console.error("Failed to load JSON data:", error);
+        console.error("Failed to load property data:", error);
     }
 };
+
