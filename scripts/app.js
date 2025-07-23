@@ -51,4 +51,3 @@ window.onload = async () => {
         console.error("Failed to load property data:", error);
     }
 };
-
