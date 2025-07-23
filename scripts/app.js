@@ -1,11 +1,8 @@
 function addMarkers(map, data) {
     data.forEach((property) => {
-        const lat = parseFloat(property.Latitude);
-        const lon = parseFloat(property.Longitude);
+        if (!property.Lat || !property.Long) return;
 
-        if (isNaN(lat) || isNaN(lon)) return;
-
-        const marker = L.circleMarker([lat, lon], {
+        const marker = L.circleMarker([property.Lat, property.Long], {
             radius: 8,
             fillColor: "#007BFF",
             color: "#000",
@@ -18,11 +15,13 @@ function addMarkers(map, data) {
             <b>${property.PropertyName}</b><br>
             ${property.Address}<br>
             ${property.City}, ${property.State} ${property.Zip}<br><br>
-            Phone: ${property.Phone}<br>
-            Email: ${property.Email}<br><br>
-            Regional: ${property.RegionalManager}<br>
-            Compliance: ${property.Compliance}<br>
+            Phone: ${property.OfficePhone || "N/A"}<br>
+            Email: ${property.Email || "N/A"}<br><br>
+            Manager: ${property.Manager || "N/A"}<br>
+            Assistant: ${property.AssistantMgr || "N/A"}<br>
+            Compliance: ${property.Compliance || "N/A"}<br>
         `;
+
         marker.bindPopup(popupContent);
         marker.addTo(map);
     });
@@ -45,10 +44,11 @@ window.onload = async () => {
     }).addTo(map);
 
     try {
-        const response = await fetch("const response = await fetch("cleaned_properties_with_coords.json");
+        const response = await fetch("cleaned_properties_with_coords.json");
         const properties = await response.json();
         addMarkers(map, properties);
     } catch (error) {
         console.error("Failed to load property data:", error);
     }
 };
+
