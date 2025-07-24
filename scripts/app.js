@@ -43,7 +43,7 @@ window.onload = async () => {
     }).addTo(map);
 
     try {
-    const response = await fetch("https://raw.githubusercontent.com/d4branch/gateway-property-map/main/final_properties_with_coords_and_rvp.json?cb=" + Date.now());
+    const response = await fetch("https://raw.githubusercontent.com/d4branch/gateway-property-map/main/cleaned_properties_with_coords.json?cb=" + Date.now());
     const properties = await response.json();
     addMarkers(map, properties);
 } catch (error) {
