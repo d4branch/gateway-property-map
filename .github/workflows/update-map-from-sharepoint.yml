@@ -1,9 +1,10 @@
 name: Update map data from SharePoint
 
 on:
+  workflow_dispatch: {}            # manual runs
   schedule:
-    - cron: "0 */3 * * *"   # every 3 hours
-  workflow_dispatch: {}
+    - cron: "0 7 * * *"           # ~2:00 AM Central during CDT (UTC-5)
+    - cron: "0 8 * * *"           # ~2:00 AM Central during CST (UTC-6)
 
 permissions:
   contents: write
@@ -57,11 +58,10 @@ jobs:
           # ---- First run helper: dump detected internal field names for mapping sanity ----
           if($items.Count -gt 0){
             ($items[0].fields | Get-Member -MemberType NoteProperty | Select -ExpandProperty Name) `
-              | Sort-Object | Out-File -Encoding utf8 -FilePath "detected_sharepoint_fields.txt"
+              | Sort-Object | Out-File -Encoding utf8 -FilePath "$PWD/detected_sharepoint_fields.txt"
           }
 
           # ---- Map SharePoint fields -> map schema your app.js expects ----
-          # Adjust field_X mappings below after reviewing detected_sharepoint_fields.txt once.
           function Map-Row($f){
             [pscustomobject]@{
               name           = $f.Title            # Property
