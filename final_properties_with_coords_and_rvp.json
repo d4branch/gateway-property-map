@@ -15,8 +15,13 @@
     "manager_email": "140onroyal@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Eagle Pointe Apartment, LTD.",
+    "lat": 34.709,
+    "lng": -86.7372,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Abbington at Summit",
@@ -34,8 +39,13 @@
     "manager_email": "abbingtonsummit@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Rea Ventures",
+    "legal_entity": "Irondale Abbington Summit Pointe, LP",
+    "lat": 33.53161,
+    "lng": -86.6901,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Abbington Reserve Apartments",
@@ -53,8 +63,13 @@
     "manager_email": "abbingtonreserve@gatewaymgt.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Rea Ventures",
+    "legal_entity": "Dekalb Abbington Reserve, LP",
+    "lat": 30.873661,
+    "lng": -84.574095,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Agape - Lease up",
@@ -72,8 +87,13 @@
     "manager_email": "agape@gatewaymgt.com",
     "rpm": "Arglidian McElheney",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "LDG Agape Family Development LLC",
+    "lat": 30.873661,
+    "lng": -84.574095,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Alexander Village",
@@ -91,8 +111,13 @@
     "manager_email": "alexandervillage@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Alexander Village Apartments LTD",
+    "lat": 34.8333,
+    "lng": -87.6667,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Americus Garden Apts.",
@@ -110,8 +135,13 @@
     "manager_email": "americus@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 32.072386,
+    "lng": -84.232688,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Atmore Senior",
@@ -129,8 +159,13 @@
     "manager_email": "atmoresenior@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Atmore Senior Village, LTD",
+    "lat": 31.023792,
+    "lng": -87.493871,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Augustine, The ",
@@ -148,8 +183,13 @@
     "manager_email": "theaugustine@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Augustine - Warner Robins LP",
+    "lat": 32.59198,
+    "lng": -83.6062,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Autumn Ridge",
@@ -167,8 +207,13 @@
     "manager_email": "autumnridge@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Autumn Ridge, LLC",
+    "lat": 34.75,
+    "lng": -77.4,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Bailey Springs ",
@@ -186,8 +231,13 @@
     "manager_email": "baileysprings@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Bailey Springs Apartments, Ltd.",
+    "lat": 35.49307,
+    "lng": -81.238,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Baytown Village",
@@ -205,8 +255,13 @@
     "manager_email": "baytown@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Baytown Senior Village, LTD",
+    "lat": 30.7,
+    "lng": -88.2,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Belle Isle Apts.",
@@ -224,8 +279,13 @@
     "manager_email": "belleisle@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Belle Isle Apartments LTD",
+    "lat": 30.555296,
+    "lng": -87.710953,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Blue Springs",
@@ -243,8 +303,13 @@
     "manager_email": "bluesprings@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Blue Springs Apartments, LP",
+    "lat": 34.78666,
+    "lng": -77.3919,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Bocage",
@@ -262,8 +327,13 @@
     "manager_email": "bocage@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Bocage Apartments LP",
+    "lat": 35.222572,
+    "lng": -97.439482,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Bradbury",
@@ -281,8 +351,13 @@
     "manager_email": "bradbury@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Bradbury Apartments LP",
+    "lat": 35.69448,
+    "lng": -81.2307,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Brentwood Landing Apts.",
@@ -300,8 +375,13 @@
     "manager_email": "brentwood@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Brentwood Landing Apts.",
+    "lat": 32.47585,
+    "lng": -86.4151,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Brentwood Landing II Apts.",
@@ -319,8 +399,13 @@
     "manager_email": "brentwood2@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Brentwood Landing II Apts.",
+    "lat": 32.47568,
+    "lng": -86.4125,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Bridges at Landrum",
@@ -338,8 +423,13 @@
     "manager_email": "bridgesatlandrum@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Landrum Family Development LP",
+    "lat": 33.7042,
+    "lng": -84.4845,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Brook Pointe ",
@@ -347,7 +437,7 @@
     "units": 192.0,
     "manager": "Alexis Williams",
     "assistant_mgr": "Angelina Neal",
-    "compliance": null,
+    "compliance": "",
     "address": "504 N Pierce Street",
     "city": "Lafayette",
     "state": "LA",
@@ -357,8 +447,13 @@
     "manager_email": "brookpointe@gatewaymgt.com",
     "rpm": "TBD",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Brooke Pointe LP",
+    "lat": 30.2211,
+    "lng": -92.0092,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Brookstone Village",
@@ -376,8 +471,13 @@
     "manager_email": "brookstone@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Brookstone Village Apartments LTD",
+    "lat": 33.80913,
+    "lng": -85.7523,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Candler Reserve - Lease up",
@@ -395,8 +495,13 @@
     "manager_email": "candlerreserve@gatewaymgt.com",
     "rpm": "Arglidian McElheney",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "LDG Candler Family Development LLC",
+    "lat": 30.873661,
+    "lng": -84.574095,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Canebreak",
@@ -414,8 +519,13 @@
     "manager_email": "canebreak@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Canebreak Apartments LP",
+    "lat": 34.235285,
+    "lng": -77.948728,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Canter Chase",
@@ -433,8 +543,13 @@
     "manager_email": "canterchase@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Canter Chase Apartments, LP",
+    "lat": 35.25,
+    "lng": -87.0,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Capstone at Barton Chapel (Trinity Manor)",
@@ -452,8 +567,13 @@
     "manager_email": "bartonchapel@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Morefield-Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Rob Coats Banyon Foundation",
+    "legal_entity": "Capstone at Barton Chapel, LP",
+    "lat": 33.43652,
+    "lng": -82.088,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Carolina Oaks",
@@ -471,14 +591,19 @@
     "manager_email": "carolinaoaks@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Carolina Oaks Village, LP",
+    "lat": 33.7,
+    "lng": -78.9,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cedar Glades",
     "type": "F",
     "units": 64.0,
-    "manager": "TBD",
+    "manager": "Katie Solomon",
     "assistant_mgr": null,
     "compliance": "Gail",
     "address": "500 Cedar Glades Circle",
@@ -490,8 +615,13 @@
     "manager_email": "cedarglades@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Cedar Glades Apartments, LP",
+    "lat": 35.4833,
+    "lng": -86.45,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cedar Hollow Family ",
@@ -509,8 +639,13 @@
     "manager_email": "cedarhollow@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "CEDAR HOLLOW, LP",
+    "lat": 35.4833,
+    "lng": -97.2667,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cherokee Meadows",
@@ -528,8 +663,13 @@
     "manager_email": "cherokee@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": null,
+    "lat": 36.17973,
+    "lng": -95.972,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cherry Ridge Independent Living ",
@@ -547,8 +687,13 @@
     "manager_email": "cherryridge@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Cherry Ridge Independent Living LTD",
+    "lat": 33.549,
+    "lng": -86.877,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cherry Ridge Village Apts",
@@ -566,8 +711,13 @@
     "manager_email": "cherryvillage@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Cherry Ridge Village Apartments, LTD",
+    "lat": 33.520682,
+    "lng": -86.802433,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cherry Woods ",
@@ -585,8 +735,13 @@
     "manager_email": "cherrywoods@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Cherry Woods Apartments LTD",
+    "lat": 33.5495,
+    "lng": -86.877,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Clement Belle Farm - Lease up",
@@ -604,8 +759,13 @@
     "manager_email": "clementbellefarm@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Mitchell Davenport",
+    "legal_entity": "Clement Belle Farm LP",
+    "lat": 31.199,
+    "lng": -81.4917,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cobblestone Village",
@@ -623,8 +783,13 @@
     "manager_email": "cobblestone@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Cobblestone Village Apartments, LTD",
+    "lat": 32.839201,
+    "lng": -86.630923,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "College Square ",
@@ -642,8 +807,13 @@
     "manager_email": "college@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Macon Housing",
+    "legal_entity": "College Square Partners, LP",
+    "lat": 32.553759,
+    "lng": -83.887408,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Colony West ",
@@ -661,8 +831,13 @@
     "manager_email": "colony@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Macon Housing",
+    "legal_entity": "Colony West Partners, LP",
+    "lat": 32.840695,
+    "lng": -83.632402,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Coosa Village Apts",
@@ -680,8 +855,13 @@
     "manager_email": "coosavillage@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Coosa Village Apartments, LTD",
+    "lat": 33.1747,
+    "lng": -86.2478,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cottage MWC I  ",
@@ -699,8 +879,13 @@
     "manager_email": "cottagemwc@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cottage Park LP1",
+    "lat": 35.44951,
+    "lng": -97.396703,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cottage MWC II  ",
@@ -718,8 +903,13 @@
     "manager_email": "cottagemwc@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cottage Park, LP2",
+    "lat": 35.44951,
+    "lng": -97.396703,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cottage Park Guthrie ",
@@ -737,8 +927,13 @@
     "manager_email": "cottageparkguthrie@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cottage Park LP3",
+    "lat": 35.8778,
+    "lng": -97.425,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cottage Park McAlester",
@@ -756,8 +951,13 @@
     "manager_email": "cottagemcalester@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cottage Park McAlester LP",
+    "lat": 34.9359,
+    "lng": -95.785,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cottage Park Newcastle",
@@ -775,8 +975,13 @@
     "manager_email": "cottagenewcastle@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cottage Park Newcastle, LP",
+    "lat": 35.247287,
+    "lng": -97.59976,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cottage Park Shawnee  ",
@@ -794,8 +999,13 @@
     "manager_email": "cottageshawnee@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cottage Park Shawnee",
+    "lat": 35.3272,
+    "lng": -97.0278,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Covington Mill Village",
@@ -813,8 +1023,13 @@
     "manager_email": "covingtonmillvillage@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Harmony at Covington LP",
+    "lat": 33.56911,
+    "lng": -83.8511,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Creekview",
@@ -832,8 +1047,13 @@
     "manager_email": "creekview@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Creekview Village, LTD",
+    "lat": 34.79981,
+    "lng": -87.677251,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cross Creek Landing  ",
@@ -851,8 +1071,13 @@
     "manager_email": "crosscreek@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Cross Creek Landing, LP",
+    "lat": 35.5,
+    "lng": -97.6,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Crossings at Conyers, The",
@@ -870,8 +1095,13 @@
     "manager_email": "crossingsatconyers@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Harmony at Conyers, LP",
+    "lat": 33.63603,
+    "lng": -83.9817,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Crosswinds ",
@@ -889,8 +1119,13 @@
     "manager_email": "crosswinds@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Crosswinds - Warner Robins LP",
+    "lat": 32.59275,
+    "lng": -83.6062,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Cypress Trace",
@@ -908,8 +1143,13 @@
     "manager_email": "cypresstrace@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Cypress Trace Apartments, LTD",
+    "lat": 30.882963,
+    "lng": -87.773047,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Dogwood Trail",
@@ -927,8 +1167,13 @@
     "manager_email": "dogwoodtrail@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Mitchell Davenport",
+    "legal_entity": "Dogwood Trail Apartments, LP",
+    "lat": 31.578206,
+    "lng": -84.155681,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Double Creek Apts",
@@ -946,8 +1191,13 @@
     "manager_email": "doublecreek@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 34.88136,
+    "lng": -87.6727,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Drakes Landing ",
@@ -955,7 +1205,7 @@
     "units": 216.0,
     "manager": "Indira Morcol",
     "assistant_mgr": "Destinie Coston",
-    "compliance": null,
+    "compliance": "",
     "address": "801 N. Ardenwood Drive",
     "city": "Baton Rouge",
     "state": "LA",
@@ -965,8 +1215,13 @@
     "manager_email": "drakeslanding@gatewaymgt.com",
     "rpm": "Tina Ard",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Drakes Landing Apartments LP",
+    "lat": 30.4511,
+    "lng": -91.0986,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Dugan Square",
@@ -984,8 +1239,13 @@
     "manager_email": "dugan@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Dugan Avenue Senior Village LTD",
+    "lat": 33.540106,
+    "lng": -86.868881,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Eagles Landing Apts",
@@ -1003,8 +1263,13 @@
     "manager_email": "eagleslanding@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Eagle's Landing Development, LTD",
+    "lat": 34.7095,
+    "lng": -86.738,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "East Oaks Apts.",
@@ -1022,8 +1287,13 @@
     "manager_email": "eastoaks@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 32.072386,
+    "lng": -84.232688,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Eastside Family",
@@ -1041,8 +1311,13 @@
     "manager_email": "eastsidefamily@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": null,
+    "lat": 36.4,
+    "lng": -97.8667,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Forest Mill Apts",
@@ -1060,8 +1335,13 @@
     "manager_email": "forestmill@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Forest Mill Apartments, LP",
+    "lat": 32.877253,
+    "lng": -85.183728,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Forest Ridge Heights",
@@ -1079,8 +1359,13 @@
     "manager_email": "forestheights@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": null,
+    "lat": 36.396762,
+    "lng": -97.879134,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "French Farms",
@@ -1098,8 +1383,13 @@
     "manager_email": "frenchfarms@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "French Farms Village Apartments, LTD",
+    "lat": 34.804549,
+    "lng": -86.97117,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Garden Lakes",
@@ -1117,8 +1407,13 @@
     "manager_email": "gardenlakes@gatewaymgt.com",
     "rpm": "Natashia Thompson",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "GDA Development Partners",
+    "legal_entity": "Garden Lakes, LP",
+    "lat": 34.06992,
+    "lng": -81.0028,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Garden Oaks - Lease up",
@@ -1136,8 +1431,13 @@
     "manager_email": "gardenoaks@gatewaymgt.com",
     "rpm": "Natashia Thompson",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "GDA Development Partners",
+    "legal_entity": "Garden Oaks, LP",
+    "lat": 32.385071,
+    "lng": -80.692317,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Gateway at Rossville ",
@@ -1155,8 +1455,13 @@
     "manager_email": "rossville@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Gateway at Rossville, LP",
+    "lat": 34.983376,
+    "lng": -85.28603,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Gateway at the Green",
@@ -1174,8 +1479,13 @@
     "manager_email": "gatewayatthegreen@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Gateway at the Green LP",
+    "lat": 34.851354,
+    "lng": -82.398488,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Glencoe Trace Apts. ",
@@ -1193,8 +1503,13 @@
     "manager_email": "glencoe@gatewaymgt.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Glencoe Trace, LP",
+    "lat": 33.246781,
+    "lng": -84.26409,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Griffin Village",
@@ -1212,8 +1527,13 @@
     "manager_email": "griffinvillage@gatewaymgt.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Collaborative Housing",
+    "legal_entity": "Griffin Village LP",
+    "lat": 33.2913,
+    "lng": -84.2931,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Hamilton Place Apts",
@@ -1231,8 +1551,13 @@
     "manager_email": "hamilton@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Hamilton Place Apartments, LTD",
+    "lat": 32.5042,
+    "lng": -86.4025,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Heatherwood Apts",
@@ -1250,8 +1575,13 @@
     "manager_email": "heatherwood@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Heatherwood-DASH, LTD",
+    "lat": 32.944012,
+    "lng": -85.953853,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Heritage Townhomes ",
@@ -1269,8 +1599,13 @@
     "manager_email": "heritagetownhomes@gatewaymgt.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Heritage Family Development LP",
+    "lat": 33.7066,
+    "lng": -84.1242,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Heritage Vista Apts.",
@@ -1288,15 +1623,20 @@
     "manager_email": "heritage@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Heritage Vista Apartments, LP",
+    "lat": 33.1,
+    "lng": -83.2,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Heron Lake Apts.",
     "type": "F",
     "units": 88.0,
     "manager": "Amanda Cooper",
-    "assistant_mgr": "TBD",
+    "assistant_mgr": "Michayla Shaw",
     "compliance": "Tammy",
     "address": "1800 Eastwind Road",
     "city": "Valdosta",
@@ -1307,15 +1647,20 @@
     "manager_email": "heronlake@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Heron Lake Apartments, L.P.",
+    "lat": 30.87667,
+    "lng": -83.2616,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Heron Lake II Apts.",
     "type": "F",
     "units": 64.0,
     "manager": "Amanda Cooper",
-    "assistant_mgr": "TBD",
+    "assistant_mgr": "Michayla Shaw",
     "compliance": "Tammy",
     "address": "Eastwind Road",
     "city": "Valdosta",
@@ -1326,8 +1671,13 @@
     "manager_email": "heronlake@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Heron Lake II Apartments, L.P.",
+    "lat": 30.87667,
+    "lng": -83.2616,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Hickory Run I Apts.",
@@ -1345,8 +1695,13 @@
     "manager_email": "hickory@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 33.80802,
+    "lng": -85.756,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Hickory Run II Apts.",
@@ -1364,8 +1719,13 @@
     "manager_email": "hickory@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 33.80802,
+    "lng": -85.756,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "High Point Senior",
@@ -1383,8 +1743,13 @@
     "manager_email": "highpointsenior@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "High Point Senior Apartments Ltd",
+    "lat": 31.308,
+    "lng": -86.4786,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Highland Estates of Rome",
@@ -1402,8 +1767,13 @@
     "manager_email": "highlandestates@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Highland Estates of Rome, LP",
+    "lat": 34.28293,
+    "lng": -85.1989,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Highland Park Family",
@@ -1421,8 +1791,13 @@
     "manager_email": "highlandparkfamily@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": null,
+    "lat": 36.703647,
+    "lng": -97.081898,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Highland Park Senior Village",
@@ -1440,8 +1815,13 @@
     "manager_email": "highland@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Highland Park Senior Village, LP",
+    "lat": 33.74229,
+    "lng": -84.7505,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Hill at Sand Mountain, The - Lease-up",
@@ -1459,8 +1839,13 @@
     "manager_email": "hillatsandmountain@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Hill at Sand Mountain LTD",
+    "lat": 34.49564,
+    "lng": -85.84621,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Horizon Ridge",
@@ -1478,8 +1863,13 @@
     "manager_email": "horizonridge@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Horizon Ridge Family Development, LP",
+    "lat": 33.3125,
+    "lng": -82.095,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Howell Senior School Apts ",
@@ -1497,8 +1887,13 @@
     "manager_email": "howellseniorschool@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Rob Coats Banyon Foundation",
+    "legal_entity": "Peaks at Dothan, LP",
+    "lat": 31.22895,
+    "lng": -85.3885,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Ivy Pointe Apts",
@@ -1516,8 +1911,13 @@
     "manager_email": "ivy@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 34.7286,
+    "lng": -87.68,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Ivy Pointe II Apts.",
@@ -1535,8 +1935,13 @@
     "manager_email": "ivy2@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 34.72861,
+    "lng": -87.68,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Jasmine Trails ",
@@ -1554,8 +1959,13 @@
     "manager_email": "jasminetrails@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Jasmine Trails Apartments, LTD",
+    "lat": 30.31384,
+    "lng": -87.6923,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Jefferson Grove ",
@@ -1573,8 +1983,13 @@
     "manager_email": "jeffersongrove@gatewaymgt.com",
     "rpm": "Arglidian McElheney",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Jefferson Family Development LP",
+    "lat": 33.3778,
+    "lng": -84.8194,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Jonesboro Road ",
@@ -1592,8 +2007,13 @@
     "manager_email": "jonesbororoad@gatewaymgt.com ",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Jonesboro Road Senior Village LP",
+    "lat": 33.5691,
+    "lng": -84.3511,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Juanita Gardner ",
@@ -1611,15 +2031,20 @@
     "manager_email": "juanitagardner@gatewaymgt.com",
     "rpm": "Arglidian McElheney",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Harmony at Bakers Ferry, LP",
+    "lat": 33.7486,
+    "lng": -84.4319,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Kenyon at Cross Creek, The",
     "type": "F",
     "units": 168.0,
     "manager": "Marquita Crosby",
-    "assistant_mgr": "TBD",
+    "assistant_mgr": "Rae'Anna Newman",
     "compliance": "Bendetta",
     "address": "252 Cross Creek Rd.",
     "city": "Central",
@@ -1630,8 +2055,13 @@
     "manager_email": "kenyonatcrosscreek@gatewaymgt.com",
     "rpm": "Natashia Thompson",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Gateway at Cross Creek LP",
+    "lat": 34.718,
+    "lng": -82.78,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Kinsey Cove",
@@ -1649,8 +2079,13 @@
     "manager_email": "kinseycove@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Rob Coats Banyon Foundation",
+    "legal_entity": "Capstone At Kinsey Cove, LP",
+    "lat": 31.23525,
+    "lng": -85.3803,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Kirby Creek Apts.",
@@ -1668,8 +2103,13 @@
     "manager_email": "kirbycreek@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Kirby Creek Apartments, LP",
+    "lat": 30.877333,
+    "lng": -84.207943,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Kirkwood Trail Apts",
@@ -1687,8 +2127,13 @@
     "manager_email": "kirkwood@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Kirkwood Trail Apartments, LP",
+    "lat": 34.012443,
+    "lng": -85.25594,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Lakeview Terrace",
@@ -1706,8 +2151,13 @@
     "manager_email": "lakeviewterrace@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": null,
+    "lat": 33.4736,
+    "lng": -82.0667,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Laurel Ridge Development",
@@ -1725,8 +2175,13 @@
     "manager_email": "laurelridge@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Laurel Ridge Development, LP",
+    "lat": 33.039291,
+    "lng": -85.031327,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Le Jolliet",
@@ -1734,7 +2189,7 @@
     "units": 264.0,
     "manager": "Reve' Landry",
     "assistant_mgr": "Makenzie Ardoin ",
-    "compliance": null,
+    "compliance": "",
     "address": "4101 5th Avenue",
     "city": "Lake Charles",
     "state": "LA",
@@ -1744,8 +2199,13 @@
     "manager_email": "lejolliet@gatewaymgt.com",
     "rpm": "TBD",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Le Jolliet LP",
+    "lat": 30.2067,
+    "lng": -93.1892,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Legacy Universal -RVP Michelle Clark",
@@ -1763,8 +2223,13 @@
     "manager_email": "legacyuniversal@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Veneto Capital",
+    "legal_entity": null,
+    "lat": 28.4478,
+    "lng": -81.4672,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Lory of Greenway Village, The",
@@ -1782,8 +2247,13 @@
     "manager_email": "loryofgreenway@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Lexerd",
+    "legal_entity": "LCP Paducah II, LLC",
+    "lat": 37.083389,
+    "lng": -88.600048,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Lory of Panama City, The ",
@@ -1801,8 +2271,13 @@
     "manager_email": "loryofpanamacity@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Lexerd",
+    "legal_entity": "LCP Panama City, LLC",
+    "lat": 30.18565,
+    "lng": -85.66,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Lory of Tallahassee, The  ",
@@ -1820,8 +2295,13 @@
     "manager_email": "loryoftallahassee@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Lexerd",
+    "legal_entity": "LCP Tallahassee, LLC",
+    "lat": 30.48332,
+    "lng": -84.2938,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Loxley Station Development",
@@ -1839,8 +2319,13 @@
     "manager_email": "loxley@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Gulf Coast Capital LP",
+    "lat": 30.63059,
+    "lng": -87.7468,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Mallard Crossing",
@@ -1848,7 +2333,7 @@
     "units": 192.0,
     "manager": "Ticoka Hines",
     "assistant_mgr": "Qairess Winston",
-    "compliance": null,
+    "compliance": "",
     "address": "11320 Greenwell Springs Rd.",
     "city": "Baton Rouge",
     "state": "LA",
@@ -1858,8 +2343,13 @@
     "manager_email": "mallardcrossing@gatewaymgt.com",
     "rpm": "Tina Ard",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Mallard Crossings, LP.",
+    "lat": 30.4833,
+    "lng": -91.0667,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Mallard Lake Apts",
@@ -1877,8 +2367,13 @@
     "manager_email": "mallardlake@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Mallard Lake Apartments, LP.",
+    "lat": 33.0,
+    "lng": -85.0,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Mandell, The",
@@ -1896,8 +2391,13 @@
     "manager_email": "themandell@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Gateway Denham Springs LLC",
+    "lat": 30.45879,
+    "lng": -90.9023,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Maple Square",
@@ -1915,8 +2415,13 @@
     "manager_email": "maplesquare@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Maple Square Apartments, LTD",
+    "lat": 36.55371,
+    "lng": -78.1073,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Mary Leila Lofts",
@@ -1934,8 +2439,13 @@
     "manager_email": "maryleilalofts@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Greensboro Mill LP",
+    "lat": 33.5667,
+    "lng": -83.1833,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Maxwell, The ",
@@ -1953,8 +2463,13 @@
     "manager_email": "TheMaxwell@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Gateway at Rome Manager LLC",
+    "lat": 34.2829,
+    "lng": -85.1989,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Meadowood Creek",
@@ -1972,8 +2487,13 @@
     "manager_email": "meadowoodcreek@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Meadowood Creek Senior Apartments",
+    "lat": 33.927,
+    "lng": -87.8139,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Meadows at Nicholson ",
@@ -1981,7 +2501,7 @@
     "units": 204.0,
     "manager": "Sharonda Brooks",
     "assistant_mgr": "Shirmelle Dyer",
-    "compliance": null,
+    "compliance": "",
     "address": "11777 Nicholson Drive",
     "city": "Baton Rouge",
     "state": "LA",
@@ -1991,8 +2511,13 @@
     "manager_email": "meadowsatnicholson@gatewaymgt.com",
     "rpm": "Tina Ard",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Meadows at Nicholson, LP",
+    "lat": 30.3639,
+    "lng": -91.1047,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Newport Trace",
@@ -2010,8 +2535,13 @@
     "manager_email": "newporttrace@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Newport Trace Apartments, LP",
+    "lat": 32.4,
+    "lng": -81.8,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Northwinds",
@@ -2029,8 +2559,13 @@
     "manager_email": "northwinds@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Northwinds Place Senior Living LP",
+    "lat": 33.60829,
+    "lng": -85.0807,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Oakland Mill  ",
@@ -2048,8 +2583,13 @@
     "manager_email": "oaklandmills@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Oakland Mill Apartments LP",
+    "lat": 35.4658,
+    "lng": -81.2347,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Oakleigh Crossing",
@@ -2067,8 +2607,13 @@
     "manager_email": "oakleighcrossing@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": null,
+    "lat": 32.944012,
+    "lng": -85.953853,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Oleander Park Apts.",
@@ -2086,8 +2631,13 @@
     "manager_email": "oleander@gatewaymgt.com",
     "rpm": "Kimberly Tunstall",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Oleander Park Apartments, LTD",
+    "lat": 30.6381,
+    "lng": -88.2199,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Orchard Park",
@@ -2105,8 +2655,13 @@
     "manager_email": "orchard@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Orchard Park Apartments",
+    "lat": 32.1875,
+    "lng": -86.4378,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Orchard View ",
@@ -2124,8 +2679,13 @@
     "manager_email": "orchardview@gateaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Orchard View Apartments",
+    "lat": 34.673132,
+    "lng": -86.033877,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Palladian Apts., The",
@@ -2143,8 +2703,13 @@
     "manager_email": "palladian@gatewaymgt.com",
     "rpm": "Kimberly Tunstall",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "The Palladian Apartments, LTD",
+    "lat": 30.64693,
+    "lng": -88.232,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Palladian at Fairhope",
@@ -2162,8 +2727,13 @@
     "manager_email": "palladianfairhope@gatewaymgt.com",
     "rpm": "Kimberly Tunstall",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Fairhope Ridge, LLC",
+    "lat": 30.53037,
+    "lng": -87.8833,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Palladian II Apts.",
@@ -2181,8 +2751,13 @@
     "manager_email": "palladian2@gatewaymgt.com",
     "rpm": "Kimberly Tunstall",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "The Palladian II Apartments, LTD",
+    "lat": 30.64743,
+    "lng": -88.232,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peach Orchard ",
@@ -2200,8 +2775,13 @@
     "manager_email": "peachorchard@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": null,
+    "lat": 33.36913,
+    "lng": -82.0336,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peaks at Manning, The",
@@ -2219,8 +2799,13 @@
     "manager_email": "peaksatmanning@gatewaymgt.com",
     "rpm": "Natashia Thompson",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "The Peaks at Manning, LP",
+    "lat": 33.695232,
+    "lng": -80.210781,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peaks of Cornelia ",
@@ -2238,8 +2823,13 @@
     "manager_email": "peaksofcornelia@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Peaks of Cornelia LP",
+    "lat": 34.5614,
+    "lng": -83.4061,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peaks of Dahlonega - Lease-up",
@@ -2257,8 +2847,13 @@
     "manager_email": "peaksofdahlonega@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Peaks of Dahlonega LP",
+    "lat": 34.5317,
+    "lng": -83.9847,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peaks of Dawson",
@@ -2276,8 +2871,13 @@
     "manager_email": "peaksofdawson@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": " Peaks of Dawson LP",
+    "lat": 34.4,
+    "lng": -84.1,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peaks of Oakwood",
@@ -2295,8 +2895,13 @@
     "manager_email": "peaksofoakwood@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Peaks of Oakwood LP",
+    "lat": 34.2325,
+    "lng": -83.88,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Pebble Creek Apts.",
@@ -2314,8 +2919,13 @@
     "manager_email": "pebble@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Pebble Creek Apartments, LTD.",
+    "lat": 31.734071,
+    "lng": -86.675479,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Pelican Landing",
@@ -2333,8 +2943,13 @@
     "manager_email": "pelicanlanding@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Pelican Landing Apartments, LTD",
+    "lat": 30.6709,
+    "lng": -88.2504,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Peyton Ridge Village ",
@@ -2352,8 +2967,13 @@
     "manager_email": "peytonridge@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Peyton Ridge Village, LTD",
+    "lat": 34.804549,
+    "lng": -86.97117,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Pinewood Village",
@@ -2371,8 +2991,13 @@
     "manager_email": "pinewood@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 32.115898,
+    "lng": -81.249513,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Pinewood Village II ",
@@ -2390,8 +3015,13 @@
     "manager_email": "pinewood@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 32.115898,
+    "lng": -81.249513,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Port Royal Apts ",
@@ -2399,7 +3029,7 @@
     "units": 192.0,
     "manager": "LaQuechia Jackson-Robertson ",
     "assistant_mgr": "Jennifer Perry",
-    "compliance": null,
+    "compliance": "",
     "address": "6454 Airline Hwy.",
     "city": "Baton Rouge",
     "state": "LA",
@@ -2409,8 +3039,13 @@
     "manager_email": "portroyal@gatewaymgt.com",
     "rpm": "Tina Ard",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Port Royal Development LP",
+    "lat": 30.4511,
+    "lng": -91.0986,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Powell Place Apts",
@@ -2428,8 +3063,13 @@
     "manager_email": "powellplace@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Powell Place Apartments, LP",
+    "lat": 33.054571,
+    "lng": -84.15575,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Preston Place Apts",
@@ -2447,8 +3087,13 @@
     "manager_email": "prestonplace@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 31.876985,
+    "lng": -85.015441,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Red Cedar Village  ",
@@ -2466,8 +3111,13 @@
     "manager_email": "redcedarvillage@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Red Cedar Village",
+    "lat": 35.489509,
+    "lng": -97.163641,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Reserve at Grant Road",
@@ -2485,8 +3135,13 @@
     "manager_email": "reserveatgrantroad@gatewaymgt.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Harmony at Ellenwood LP",
+    "lat": 33.61011,
+    "lng": -84.287978,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Rivers Edge",
@@ -2504,8 +3159,13 @@
     "manager_email": "riversedge@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Rivers Edge Apartments, LTD",
+    "lat": 34.443428,
+    "lng": -86.935284,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Rose Rock Cottages",
@@ -2523,8 +3183,13 @@
     "manager_email": "roserock@gatewaymgt.com ",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": null,
+    "lat": 36.412962,
+    "lng": -97.268194,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Shellbrooke Pointe Apts.",
@@ -2542,8 +3207,13 @@
     "manager_email": "shellbrooke@gatewaymgt.com",
     "rpm": "Kimberly Tunstall",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Shellbrooke Pointe Apartments, LTD",
+    "lat": 30.49854,
+    "lng": -87.8915,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Sheppard Station Dev. ",
@@ -2561,8 +3231,13 @@
     "manager_email": "sheppard@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Sheppard Station Apts, LP",
+    "lat": 32.11529,
+    "lng": -81.2671,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Shoals Mill Development ",
@@ -2580,8 +3255,13 @@
     "manager_email": "shoalsmill@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "The Shoals Mill Development, LTD",
+    "lat": 33.24,
+    "lng": -86.6167,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Shoals Mill Village ",
@@ -2599,8 +3279,13 @@
     "manager_email": "shoalsmill@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Shoals Mill Village Apartments LTD",
+    "lat": 33.178172,
+    "lng": -86.607205,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "SkyHouse RVP Michelle Clark",
@@ -2618,8 +3303,13 @@
     "manager_email": "skyhouse@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Veneto Capital",
+    "legal_entity": "Silver ND I LLC",
+    "lat": 28.54701,
+    "lng": -81.3771,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Skyline Trace",
@@ -2637,8 +3327,13 @@
     "manager_email": "skyline@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Skyline Trace Apartments LP",
+    "lat": 33.014234,
+    "lng": -83.904416,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "South Pointe Development",
@@ -2656,8 +3351,13 @@
     "manager_email": "southpointe@gatewaymgt.com",
     "rpm": "T'arra Brown",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "South Pointe Development, LTD.",
+    "lat": 33.08368,
+    "lng": -86.7525,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Sovereign at North Bay - Lease up",
@@ -2675,8 +3375,13 @@
     "manager_email": "northbay@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Strategic Group",
+    "legal_entity": "Bid-A-Wee Apartments, LLC",
+    "lat": 30.1857,
+    "lng": -85.66,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Sterling Oaks",
@@ -2694,8 +3399,13 @@
     "manager_email": "sterlingoaks@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Sterling Oaks Apartments LP",
+    "lat": 33.43652,
+    "lng": -82.088,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Stoney Creek",
@@ -2713,8 +3423,13 @@
     "manager_email": "stoneycreek@gatewaymgt.com",
     "rpm": "Melissa Valley",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Stoney Creek Apartments, LP",
+    "lat": 34.77405,
+    "lng": -79.462825,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Stony Ridge Apts ",
@@ -2732,8 +3447,13 @@
     "manager_email": "stonyridge@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Stony Ridge Apartments, LP",
+    "lat": 33.173177,
+    "lng": -84.914936,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Stony Ridge Apts II",
@@ -2751,8 +3471,13 @@
     "manager_email": "stonyridge@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Stony Ridge II, LP",
+    "lat": 33.173177,
+    "lng": -84.914936,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Stove Lofts",
@@ -2770,8 +3495,13 @@
     "manager_email": "stovelofts@gatewaymgt.com",
     "rpm": "Jeyza Cartagena",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Lexerd",
+    "legal_entity": "LCP Leavenworth LLC",
+    "lat": 39.311326,
+    "lng": -94.922759,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Sullivan Village",
@@ -2789,8 +3519,13 @@
     "manager_email": "sullivanvillage@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Sullivan Village Apartments, LTD",
+    "lat": 34.71804,
+    "lng": -87.6918,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Sunrise View ",
@@ -2808,8 +3543,13 @@
     "manager_email": "sunriseview@gatewaymgt.com",
     "rpm": "Arglidian McElheney",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Indian Creek Family Development, LP",
+    "lat": 30.873661,
+    "lng": -84.574095,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Sweetwater Terrace ",
@@ -2827,8 +3567,13 @@
     "manager_email": "sweetwaterterrace@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Veneto Capital",
+    "legal_entity": "Sweetwater Community Associates LLC",
+    "lat": 33.94548,
+    "lng": -84.1219,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tattnall Place ",
@@ -2846,8 +3591,13 @@
     "manager_email": "tattnall@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Macon Housing",
+    "legal_entity": null,
+    "lat": 32.840695,
+    "lng": -83.632402,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "The Peaks of Tazewell ",
@@ -2865,8 +3615,13 @@
     "manager_email": "tazewell@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "RHG",
+    "legal_entity": "Peaks of Tazewell, LP",
+    "lat": 36.43394,
+    "lng": -83.5719,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tranquility at Decatur - Lease up ",
@@ -2884,8 +3639,13 @@
     "manager_email": "tranquilityatdecatur@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": null,
+    "lat": 30.873661,
+    "lng": -84.574095,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tranquility at Ferry Pass ",
@@ -2903,8 +3663,13 @@
     "manager_email": "tranquilityatferrypass@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": "Timshel Ferry Pass Housing LLC",
+    "lat": 30.51382,
+    "lng": -87.2089,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tranquility at Griffin",
@@ -2922,8 +3687,13 @@
     "manager_email": "tranquilitygriffin@gatewaymgt.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Tranquility at Griffin, LP",
+    "lat": 33.29135,
+    "lng": -84.2931,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tranquility at Hope School",
@@ -2941,8 +3711,13 @@
     "manager_email": "tranquilityathopeschool@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": "East Lake Florida 2, LLC",
+    "lat": 30.71013,
+    "lng": -85.189,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tranquility at Hope School II ",
@@ -2960,8 +3735,13 @@
     "manager_email": "tranquilityathopeschool@gatewaymgt.com",
     "rpm": "Ciera Armstead | Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": "East Lake Florida 3, LLC",
+    "lat": 30.71013,
+    "lng": -85.189,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tranquility at Milton ",
@@ -2979,8 +3759,13 @@
     "manager_email": "tranquilityatmilton@gatewaymgt.com",
     "rpm": "Kat Butts",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": "Tranquility Milton, LLC",
+    "lat": 30.632415,
+    "lng": -87.039688,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Tucker Cottages",
@@ -2998,8 +3783,13 @@
     "manager_email": "tuckercottages@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Azalea Mill Cottages, LP",
+    "lat": 33.0375,
+    "lng": -85.0319,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Union at Stonecrest",
@@ -3017,8 +3807,13 @@
     "manager_email": "unionatstonecrest.com",
     "rpm": "Brenda Jackson",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Timshel",
+    "legal_entity": null,
+    "lat": 33.70477,
+    "lng": -84.124,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Union Landing",
@@ -3036,8 +3831,13 @@
     "manager_email": "unionlanding@gatewaymgt.com",
     "rpm": "Arglidian McElheney",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Union City Family Development, LP",
+    "lat": 33.69952,
+    "lng": -84.2663,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Valley Ridge Apts.",
@@ -3055,8 +3855,13 @@
     "manager_email": "valleyridge@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Valley Ridge Apartments, LP",
+    "lat": 33.05795,
+    "lng": -85.0328,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Valley Senior Village",
@@ -3074,8 +3879,13 @@
     "manager_email": "valleysenior@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Valley Senior Village LTD",
+    "lat": 32.818741,
+    "lng": -85.179385,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Verandah Apts., The",
@@ -3093,8 +3903,13 @@
     "manager_email": "verandah@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 32.072386,
+    "lng": -84.232688,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Village at Blackshear ",
@@ -3112,8 +3927,13 @@
     "manager_email": "blackshear@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Macon Housing",
+    "legal_entity": "Blackshear Village, L.P.",
+    "lat": 31.30428,
+    "lng": -82.240492,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Village at Wedgewood",
@@ -3131,8 +3951,13 @@
     "manager_email": "villagewedge@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 30.877333,
+    "lng": -84.207943,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Village on Park",
@@ -3150,8 +3975,13 @@
     "manager_email": "villageonpark@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 30.991306,
+    "lng": -83.372658,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Villages at Congaree Pointe ",
@@ -3169,8 +3999,13 @@
     "manager_email": "congareepointe@gatewaymgt.com",
     "rpm": "Natashia Thompson",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Armanda/Exact",
+    "legal_entity": "Congaree Pointe, LP",
+    "lat": 33.9399,
+    "lng": -80.9797,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Villages at Stone Mountain, The ",
@@ -3188,8 +4023,13 @@
     "manager_email": "villageatstonemountain@gatewaymgt.com",
     "rpm": "Jonathan Marrero",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Harmony at Stone Mountain LP",
+    "lat": 33.78777,
+    "lng": -84.1613,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Villas of Benedictine ",
@@ -3207,8 +4047,13 @@
     "manager_email": "villasofbenedictine@gatewaymgt.com",
     "rpm": "Diana Stoflet",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Rob Coats Banyon Foundation",
+    "legal_entity": "Benedictine Senior Housing LP",
+    "lat": 35.878923,
+    "lng": -97.425277,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Villas on Forsyth",
@@ -3226,8 +4071,13 @@
     "manager_email": "villasforsyth@gatewaymgt.com",
     "rpm": "Trisha Chauvin",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Villas on Forsyth, LP",
+    "lat": 33.0542,
+    "lng": -84.1583,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Vinings of Augusta",
@@ -3245,8 +4095,13 @@
     "manager_email": "viningsofaugusta@gatewaymgt.com",
     "rpm": "Sharon Waldo",
     "rvp": "Melissa Valley",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Harmony at Augusta, LP",
+    "lat": 33.36602,
+    "lng": -82.0422,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Walden Crest ",
@@ -3264,8 +4119,13 @@
     "manager_email": "waldencrest@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Hohenwald Estates, LP",
+    "lat": 35.547851,
+    "lng": -87.551963,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Waring I",
@@ -3283,8 +4143,13 @@
     "manager_email": "waring2@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "DASH Warning Apartments LLC",
+    "lat": 31.24077,
+    "lng": -82.3555,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Waring II Apts.",
@@ -3302,8 +4167,13 @@
     "manager_email": "waring2@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 31.24077,
+    "lng": -82.3555,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Waterford Farms",
@@ -3321,8 +4191,13 @@
     "manager_email": "waterford@gatewaymgt.com",
     "rpm": "Shirley Greer",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Waterford Farms Apartments, LTD",
+    "lat": 34.3171,
+    "lng": -86.5053,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Ways Station ",
@@ -3340,8 +4215,13 @@
     "manager_email": "waysstation@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 31.9333,
+    "lng": -81.3167,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Windcliff Apts.",
@@ -3359,8 +4239,13 @@
     "manager_email": "windcliff@gatewaymgt.com",
     "rpm": "Brandi Harris",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Windcliff  Apartments, LLC",
+    "lat": 34.33133,
+    "lng": -83.80438,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Wood Meadow ",
@@ -3378,8 +4263,13 @@
     "manager_email": "woodmeadow@gatewaymgt.com",
     "rpm": "Chantelle Boone",
     "rvp": "Toni Raymond",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": "Wood Meadow Apartments, LP",
+    "lat": 32.19673,
+    "lng": -81.1923,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Woodcrest Apts",
@@ -3387,7 +4277,7 @@
     "units": 48.0,
     "manager": "Brandon Douglas",
     "assistant_mgr": null,
-    "compliance": null,
+    "compliance": "",
     "address": "1682 N. Lobdell Ave.",
     "city": "Baton Rouge",
     "state": "LA",
@@ -3397,8 +4287,13 @@
     "manager_email": "woodcrest@gatewaymgt.com",
     "rpm": "Tina Ard",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "LDG",
+    "legal_entity": "Woodcrest Apartments, LP",
+    "lat": 30.4511,
+    "lng": -91.0986,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "Woodlawn Terrace",
@@ -3416,8 +4311,13 @@
     "manager_email": "woodlawn@gatewaymgt.com",
     "rpm": "Tere Dykes",
     "rvp": "Paula Hall",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway",
+    "legal_entity": null,
+    "lat": 30.832702,
+    "lng": -83.278485,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   },
   {
     "name": "South Rossville Senior Village (acquisition eff. 10/14/25)",
@@ -3435,7 +4335,12 @@
     "manager_email": "southrossville@gatewaymgt.com",
     "rpm": "Anna Walters",
     "rvp": "Erin Loupe",
-    "lat": 0.0,
-    "lng": 0.0
+    "owner": "Gateway ",
+    "legal_entity": null,
+    "lat": 34.9786,
+    "lng": -85.2897,
+    "geocode_status": "ok",
+    "geocode_source": "manual",
+    "geocode_fail_code": null
   }
 ]
